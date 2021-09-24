@@ -14,10 +14,10 @@ h2{
 font-family: 'Lobster', cursive;    
 }
 
-/*h1, h2
+h1, h2
 {
-    margin: 0
-}*/
+    color: white;
+}
 
 .container{
     width: 100%;
